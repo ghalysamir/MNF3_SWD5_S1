@@ -1,0 +1,14 @@
+E:\DEPI\MNF3_SWD5_S1\CSharp\MNF_S1\MNF_S1 Day1\bin\Debug\net9.0\MNF_S1 Day1.exe
+E:\DEPI\MNF3_SWD5_S1\CSharp\MNF_S1\MNF_S1 Day1\bin\Debug\net9.0\MNF_S1 Day1.deps.json
+E:\DEPI\MNF3_SWD5_S1\CSharp\MNF_S1\MNF_S1 Day1\bin\Debug\net9.0\MNF_S1 Day1.runtimeconfig.json
+E:\DEPI\MNF3_SWD5_S1\CSharp\MNF_S1\MNF_S1 Day1\bin\Debug\net9.0\MNF_S1 Day1.dll
+E:\DEPI\MNF3_SWD5_S1\CSharp\MNF_S1\MNF_S1 Day1\bin\Debug\net9.0\MNF_S1 Day1.pdb
+E:\DEPI\MNF3_SWD5_S1\CSharp\MNF_S1\MNF_S1 Day1\obj\Debug\net9.0\MNF_S1 Day1.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEPI\MNF3_SWD5_S1\CSharp\MNF_S1\MNF_S1 Day1\obj\Debug\net9.0\MNF_S1 Day1.AssemblyInfoInputs.cache
+E:\DEPI\MNF3_SWD5_S1\CSharp\MNF_S1\MNF_S1 Day1\obj\Debug\net9.0\MNF_S1 Day1.AssemblyInfo.cs
+E:\DEPI\MNF3_SWD5_S1\CSharp\MNF_S1\MNF_S1 Day1\obj\Debug\net9.0\MNF_S1 Day1.csproj.CoreCompileInputs.cache
+E:\DEPI\MNF3_SWD5_S1\CSharp\MNF_S1\MNF_S1 Day1\obj\Debug\net9.0\MNF_S1 Day1.dll
+E:\DEPI\MNF3_SWD5_S1\CSharp\MNF_S1\MNF_S1 Day1\obj\Debug\net9.0\refint\MNF_S1 Day1.dll
+E:\DEPI\MNF3_SWD5_S1\CSharp\MNF_S1\MNF_S1 Day1\obj\Debug\net9.0\MNF_S1 Day1.pdb
+E:\DEPI\MNF3_SWD5_S1\CSharp\MNF_S1\MNF_S1 Day1\obj\Debug\net9.0\MNF_S1 Day1.genruntimeconfig.cache
+E:\DEPI\MNF3_SWD5_S1\CSharp\MNF_S1\MNF_S1 Day1\obj\Debug\net9.0\ref\MNF_S1 Day1.dll
