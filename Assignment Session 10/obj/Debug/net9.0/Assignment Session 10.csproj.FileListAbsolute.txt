@@ -1,0 +1,14 @@
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Fundamental\Assignment Session 10\bin\Debug\net9.0\Assignment Session 10.exe
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Fundamental\Assignment Session 10\bin\Debug\net9.0\Assignment Session 10.deps.json
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Fundamental\Assignment Session 10\bin\Debug\net9.0\Assignment Session 10.runtimeconfig.json
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Fundamental\Assignment Session 10\bin\Debug\net9.0\Assignment Session 10.dll
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Fundamental\Assignment Session 10\bin\Debug\net9.0\Assignment Session 10.pdb
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Fundamental\Assignment Session 10\obj\Debug\net9.0\Assignment Session 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Fundamental\Assignment Session 10\obj\Debug\net9.0\Assignment Session 10.AssemblyInfoInputs.cache
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Fundamental\Assignment Session 10\obj\Debug\net9.0\Assignment Session 10.AssemblyInfo.cs
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Fundamental\Assignment Session 10\obj\Debug\net9.0\Assignment Session 10.csproj.CoreCompileInputs.cache
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Fundamental\Assignment Session 10\obj\Debug\net9.0\Assignment Session 10.dll
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Fundamental\Assignment Session 10\obj\Debug\net9.0\refint\Assignment Session 10.dll
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Fundamental\Assignment Session 10\obj\Debug\net9.0\Assignment Session 10.pdb
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Fundamental\Assignment Session 10\obj\Debug\net9.0\Assignment Session 10.genruntimeconfig.cache
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Fundamental\Assignment Session 10\obj\Debug\net9.0\ref\Assignment Session 10.dll
