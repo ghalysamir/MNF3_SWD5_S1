@@ -1,0 +1,14 @@
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Assignment Session 11\Assignment Session 11\bin\Debug\net9.0\Assignment Session 11.exe
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Assignment Session 11\Assignment Session 11\bin\Debug\net9.0\Assignment Session 11.deps.json
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Assignment Session 11\Assignment Session 11\bin\Debug\net9.0\Assignment Session 11.runtimeconfig.json
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Assignment Session 11\Assignment Session 11\bin\Debug\net9.0\Assignment Session 11.dll
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Assignment Session 11\Assignment Session 11\bin\Debug\net9.0\Assignment Session 11.pdb
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Assignment Session 11\Assignment Session 11\obj\Debug\net9.0\Assignment Session 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Assignment Session 11\Assignment Session 11\obj\Debug\net9.0\Assignment Session 11.AssemblyInfoInputs.cache
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Assignment Session 11\Assignment Session 11\obj\Debug\net9.0\Assignment Session 11.AssemblyInfo.cs
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Assignment Session 11\Assignment Session 11\obj\Debug\net9.0\Assignment Session 11.csproj.CoreCompileInputs.cache
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Assignment Session 11\Assignment Session 11\obj\Debug\net9.0\Assignment Session 11.dll
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Assignment Session 11\Assignment Session 11\obj\Debug\net9.0\refint\Assignment Session 11.dll
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Assignment Session 11\Assignment Session 11\obj\Debug\net9.0\Assignment Session 11.pdb
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Assignment Session 11\Assignment Session 11\obj\Debug\net9.0\Assignment Session 11.genruntimeconfig.cache
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Assignment Session 11\Assignment Session 11\obj\Debug\net9.0\ref\Assignment Session 11.dll
