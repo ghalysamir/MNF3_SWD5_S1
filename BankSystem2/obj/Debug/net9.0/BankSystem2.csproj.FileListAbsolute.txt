@@ -1,0 +1,14 @@
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Fundamental\BankSystem2\bin\Debug\net9.0\BankSystem2.exe
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Fundamental\BankSystem2\bin\Debug\net9.0\BankSystem2.deps.json
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Fundamental\BankSystem2\bin\Debug\net9.0\BankSystem2.runtimeconfig.json
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Fundamental\BankSystem2\bin\Debug\net9.0\BankSystem2.dll
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Fundamental\BankSystem2\bin\Debug\net9.0\BankSystem2.pdb
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Fundamental\BankSystem2\obj\Debug\net9.0\BankSystem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Fundamental\BankSystem2\obj\Debug\net9.0\BankSystem2.AssemblyInfoInputs.cache
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Fundamental\BankSystem2\obj\Debug\net9.0\BankSystem2.AssemblyInfo.cs
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Fundamental\BankSystem2\obj\Debug\net9.0\BankSystem2.csproj.CoreCompileInputs.cache
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Fundamental\BankSystem2\obj\Debug\net9.0\BankSystem2.dll
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Fundamental\BankSystem2\obj\Debug\net9.0\refint\BankSystem2.dll
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Fundamental\BankSystem2\obj\Debug\net9.0\BankSystem2.pdb
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Fundamental\BankSystem2\obj\Debug\net9.0\BankSystem2.genruntimeconfig.cache
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\Fundamental\BankSystem2\obj\Debug\net9.0\ref\BankSystem2.dll
